@@ -1,3 +1,4 @@
-# Decolonization FAQ
+# Frequently Asked Questions (FAQs) about decolonization
 
-## Who are we?
+## [About](about.md)
+- Who are we?
