@@ -1,5 +1,5 @@
 # Frequently Asked Questions (FAQs) about decolonization
 
-## [About](about.md)
+## [About us](about_us.md)
 
-## [Basics of decolonization](basics.md)
+## [Empire](empire.md)
