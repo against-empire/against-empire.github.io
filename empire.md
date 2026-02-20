@@ -1,10 +1,7 @@
-## What is Empire?
-In our usage the word "Empire" refers to a certain kind of social, political, economic, and cultural system. It's hard to define exactly, since there have been many instances of Empire in history and they have all been different. However, there are some usual traits which most (if not all) empires share:
-- expansion: just as the nature of a cancer cell is to grow and reproduce without end, and the nature of a virus is to seek out host cells to hijack their genetic material for itself, the nature of an Empire is to expand.
-
-The word "Empire" as we have used it here refers to the current dominant global system. Different people know it by different names. Some people call it White or Western supremacy. some call it patriarchy. Some call it capitalism. Some call it colonialism.
-All of these names reflect some facet of the system, which is tremendously complex. It definitely has all of these attributes and more. In our FAQ we (will) have specific sections for these attributes where you can read about th
-
-
-## Why are we against Empire?
-Empire is a fundamentally unjust system. 
+## What is "Empire" and why do we spell it with a capital "E"?
+You (dear reader) have surely heard the term "empire", and examples like the Mali Empire in Africa, the Maya Empire in the Americas, and the Mongol Empire in Eurasia. So you already have an idea of what an empire is.
+In our usage, we take inspiration from the decolonial essayist and artist Muindi Fanuel Muindi who has explained it clearly in his essay [The Desertion of Empire](https://www.solutionsforpostmodernliving.org/world-building-blog/towards-the-desertion-of-empire). He distinguishes between **empires** (spelled with a small "e") which are the historical entities like the ones we have described above. By contrast, **Empire** (with a capital "E") is the underlying social, political, economic, and cultural system. We can think of Empire as the template, and individual empires as instances created from this template.
+We are not historians and this is not a scientific article. So we will not bore you with definitions. However, in our understanding, there are some usual traits which many (if not all) empires share. We can distill these and call them fundamental traits of Empire. Of course, throughout history there have been countless empires. No doubt the motivated history fan will be able to find exceptions to all of the traits we are going to list. Nevertheless, we think they represent the essence of what Empire means. Here they are:
+- **Hierarchy**: Empire thrives on hierarchy between people. At the top there are the elites who make decisions and call the shots. Below them are the middle class, who might be considered full citizens or members of the Empire. Finally, there are the lower class, whose bodies are used for service or labor. Usually, the greed and delusion of the elites, coupled with the ambition of the middle class and the labor and exploitation of the lower class(es) drives the growth of Empire.
+- **Expansion**: just as the nature of a cancer cell is to grow and reproduce without end, and the nature of a virus is to seek out host cells to hijack their genetic material for itself, the nature of Empire is to expand. In most of history, this happened by empires using armies to invade the lands of their neighbors and annex them.
+- **Domination**: to maintain its existence, Empire has to continuously assert its superiority over rivals and competitors.
