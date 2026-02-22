@@ -1,5 +1,3 @@
-<!-- Word count: ~500 words -->
-
 ## What is "Empire" and why do we spell it with a capital "E"?
 You (dear reader) have surely heard the term "empire", and examples like the Mali Empire in Africa, the Maya Empire in the Americas, and the Mongol Empire in Eurasia. So you already have an idea of what an empire is.
 
