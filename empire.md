@@ -13,3 +13,5 @@ Now, not every empire in history had all of these characteristics. There are man
 
 ## Why is this relevant now?
 Things are going very badly now for most Life on Earth. The reasons for this are clear: the actions of a few people. This is acknowledged even in the scientific community, and the scientific community is a conservative knowledge system. Human activity has destroyed entire branches of the tree of Life and is actively hurting the Earth. This is not an unintended side-effect but rather the explicit strategy of the system known as Empire.
+
+The physical effects of Empire are widely talked about - climate change, biodiversity loss, pollution being the main ones. But Empire is also in the mind. The most basic questions of who we are, what we know, and what we do, have some possible answers that Empire prefers more than others.
