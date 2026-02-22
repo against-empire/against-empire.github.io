@@ -1,4 +1,4 @@
-## What is "Empire" and why do we spell it with a capital "E"?
+## What is "Empire"?
 You (dear reader) have surely heard the term "empire", and of examples like the Mali Empire in Africa, the Maya Empire in the Americas, and the Mongol Empire in Eurasia. So you already have an idea of what an empire is.
 
 In our usage, we take inspiration from the decolonial essayist and artist Muindi Fanuel Muindi who has explained it clearly in his essay [The Desertion of Empire](https://www.solutionsforpostmodernliving.org/world-building-blog/towards-the-desertion-of-empire). He distinguishes between **empires** (spelled with a small "e") which are the historical entities like the ones we have described above. By contrast, **Empire** (with a capital "E") is the underlying social, political, economic, and cultural system. We can think of Empire as the template, and individual empires as instances created from this template.
