@@ -1,3 +1,5 @@
+<!-- Word count: ~500 words -->
+
 ## What is "Empire" and why do we spell it with a capital "E"?
 You (dear reader) have surely heard the term "empire", and examples like the Mali Empire in Africa, the Maya Empire in the Americas, and the Mongol Empire in Eurasia. So you already have an idea of what an empire is.
 
@@ -10,3 +12,6 @@ We are not historians and this is not a scientific article. So we will not bore 
 - **Standardization and homogenization**: Empire cannot tolerate diversity. It has to enforce uniform standards and customs over everybody who lives under its rule. This is done ostensibly to make trade and communication easier (by having uniform weights and currency and language), but the real reason is to make control over its subjects easier. Having the same religion, language, and culture makes extraction easier as well. Of course, not everything is about economics or money. Sometimes, destroying co-existing cultures and replacing them with their own is the ultimate end-goal of the elites. Sometimes hubris is more important than money.
 
 Now, not every empire in history had all of these characteristics. There are many examples of great multicultural, multilinguistic empires. There have also been empires that are less brutal and extractivistic than others. However, these traits are the hard bones that make up the skeleton of Empire today. That brings us to the next question.
+
+## Why is this relevant now?
+Things are going very badly now for most Life on Earth. The reasons for this are clear: the actions of a few people. This is acknowledged even in the scientific community, and the scientific community is a conservative knowledge system. Human activity has destroyed entire branches of the tree of Life and is actively hurting the Earth. This is not an unintended side-effect but rather the explicit strategy of the system known as Empire. 
