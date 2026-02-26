@@ -6,4 +6,4 @@
 
 ## [Extractor](extractor.md)
 
-## [Global parasite](global_parasite.md)
+## [Global Parasite](global_parasite.md)
