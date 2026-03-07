@@ -6,4 +6,6 @@
 
 ## [Extractor](extractor.md)
 
+## [Patriarchy](patriarchy.md)
+
 ## [Global Parasite](global_parasite.md)
